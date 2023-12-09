@@ -23,7 +23,7 @@
 ## Projects:
 ### 1. Restaurant Management.
 - Link : <a href="https://github.com/mdshahadat12/Royal-Food-Project-Client">Client</a> | <a href="https://github.com/mdshahadat12/Royal-Food-Project-Server">Server</a> | <a href="https://royal-food-assignment.netlify.app/">Live Link</a>
-- Technology : JavaScript, React, JWT, Firebase, NodeJS, MongoBD
+- Technology : JavaScript, React, JWT, Firebase, NodeJS, MongoDB
 - Feature:
 1. SignIn and SignUp with JWT Token System.
 2. Add Product and See Your Added Product.
@@ -31,14 +31,14 @@
 
 ### 2. IT Management.
 - Link : <a href="https://github.com/mdshahadat12/Hunter-IT-Project-Client">Client</a> | <a href="https://github.com/mdshahadat12/Hunter-IT-Project-Server">Server</a> | <a href="https://hunter-it.netlify.app/">Live Link</a>
-- Technology : JavaScript, React, Firebase, NodeJS, MongoBD
+- Technology : JavaScript, React, Firebase, NodeJS, MongoDB
 - Feature:
 4. SignIn and SignUp System.
 5. Simple CURD With Node and MongoBD .
 6. You can add Product to Cart
 ### 3. Contest Management.
 - Link : <a href="https://github.com/mdshahadat12/Talent-Hunt-Project-Client">Client</a> | <a href="https://github.com/mdshahadat12/Talent-Hunt-Project-Server">Server</a> | <a href="https://talent-hunt-project.netlify.app">Live Link</a>
-- Technology : JavaScript, React, Stripe, Firebase, NodeJS, MongoBD
+- Technology : JavaScript, React, Stripe, Firebase, NodeJS, MongoDB
 - Feature:
 4. Admin Role.
 5. Payment System.
