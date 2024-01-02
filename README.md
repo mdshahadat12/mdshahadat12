@@ -4,9 +4,9 @@
 
 
 ## Github Stats:
-[<a>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdshahadat12&theme=whatsapp-dark2&border_radius=10.5&date_format=n%2Fj%5B%2FY%5D&border=BC0000)](https://git.io/streak-stats)
-</a>]
+
 
 
 ## Social
